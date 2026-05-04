@@ -80,7 +80,7 @@ This project focuses on analyzing a healthcare dataset to predict diseases based
 
 ## 🔹 Author
 
-Your Name
+Aayush Godwe ,Mayur Khakare
 
 ---
 
